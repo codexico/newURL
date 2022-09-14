@@ -1,0 +1,23 @@
+{
+  "name": "new-url",
+  "version": "1.0.0",
+  "description": "Simple function to convert strings to urls",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node test/test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codexico/newURL.git"
+  },
+  "keywords": [
+    "javascript",
+    "URL"
+  ],
+  "author": "codexico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codexico/newURL/issues"
+  },
+  "homepage": "https://github.com/codexico/newURL#readme"
+}
